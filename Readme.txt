@@ -10,3 +10,4 @@ El archivo main.c fue elaborado con la herramienta AtmelStudio. En este código 
 y se controla el funcionamiento del led indicador, además de controlar el motor paso a paso cada vez que la Raspberry así lo decida siempre
 y cuando se haya producido una interripción a través de los botones implementados en el puerto D0 y D1 de nuestra tarjeta
 
+Enlace Video Proyecto: https://youtu.be/apDYtlrCSCE
